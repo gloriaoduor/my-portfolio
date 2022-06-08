@@ -12,4 +12,4 @@ Gloria Oduor
 Contact me at : gloriaoduor@gmail.com
 
 ### License
-[MIT LICENSE] (https://choosealicense.com/licenses/mit/#)
+[MIT LICENSE](https://choosealicense.com/licenses/mit/#)
